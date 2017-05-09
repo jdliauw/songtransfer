@@ -1,5 +1,4 @@
-"""
-# songtransfer 
+# songtransfer
 
 The purpose of this script is to take a txt file of paths to songs and move
 all of the files to a single directory.
@@ -24,4 +23,3 @@ Finally, move this script AND the .txt to the directory if the paths in the txt
 are relative, and run it in the terminal. I realize you can probably achieve the
 same thing all in the terminal, but I've done some basic file moving in Python
 so just stuck with that.
-"""
